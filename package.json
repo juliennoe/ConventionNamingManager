@@ -1,0 +1,11 @@
+{
+    "name": "com.juliennoe.namingconvention",
+    "version": "2023.1.0",
+    "displayName": "Naming Convention Tool",
+    "description": "Enforce naming conventions across your Unity project with customizable rules per asset type and auto-renaming support.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Julien No\u00e9",
+        "url": "https://github.com/juliennoe"
+    }
+}
