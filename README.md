@@ -20,7 +20,7 @@
 2. Add the following line inside `dependencies`:
 
 ```json
-"com.juliennoe.namingconvention": "https://github.com/juliennoe/namingconventionmanager.git"
+"com.juliennoe.namingconventionmanager": "https://github.com/juliennoe/ConventionNamingManager.git"
 ```
 
 ## License
