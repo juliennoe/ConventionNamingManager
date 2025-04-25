@@ -52,7 +52,7 @@ namespace JulienNoe.Tools.NamingConvention
         };
 
         // Menu to open the tool
-        [MenuItem("Tools/Naming Convention Enforcer")]
+        [MenuItem("Tools/Julien Noe/Naming Convention Enforcer")]
         public static void ShowWindow()
         {
             var window = GetWindow<NamingConvention>("Naming Convention Enforcer", true);
