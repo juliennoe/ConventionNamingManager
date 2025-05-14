@@ -1,6 +1,6 @@
 {
     "name": "com.juliennoe.namingconventionmanager",
-    "version": "2023.1.0",
+    "version": "1.0.0",
     "displayName": "Naming Convention Manager",
     "description": "Enforce naming conventions across your Unity project with customizable rules per asset type and auto-renaming support.",
     "unity": "2021.3",
